@@ -1,4 +1,9 @@
 {
-    "directory": "app/components",
-    "json": "bower.json"
+  "directory": "bower_components"
+,"json": "bower.json",
+ "proxy": "http://puninetpxy.ad.infosys.com:80",
+  "https-proxy": "http://puninetpxy.ad.infosys.com:80",
+  "strict-ssl": false,
+"registry": "http://bower.herokuapp.com"
+  
 }
